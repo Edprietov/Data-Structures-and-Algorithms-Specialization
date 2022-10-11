@@ -79,6 +79,7 @@ ENV/
 .idea/**/gradle.xml
 .idea/**/libraries
 *.iws /out/
+.idea
 
 # Sublime Text
 *.tmlanguage.cache
